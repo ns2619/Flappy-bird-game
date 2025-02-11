@@ -61,20 +61,20 @@ flappy-bird-game/
 ```
 
 ## 📸 Screenshots
-(Add screenshots of the game here, if possible)
+
 ![alt text](<Screenshot 2025-02-03 151750.png>)
 ![alt text](<Screenshot 2025-02-03 151733.png>)
 ![alt text](<Screenshot 2025-02-03 151650.png>)
 ![alt text](image.png)
 
-## 🤝 Contributing
+<!--## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repository, make your changes, and open a pull request. 😊
-
+-->
 ## 💡 Future Improvements
-Add background music and sound effects.
-Implement difficulty levels.
-Add a leaderboard to track high scores.
+- Add background music and sound effects.
+- Implement difficulty levels.
+- Add a leaderboard to track high scores.
 
 ## 🙌 Acknowledgments
-Inspired by the original Flappy Bird game.
+Inspired by the original Flappy Bird game. 
 Thanks to the open-source community for their helpful resources!
