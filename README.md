@@ -24,7 +24,7 @@ A Java-based Flappy Bird game that brings the classic arcade fun to your desktop
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/flappy-bird-game.git 
+   git clone https://github.com/ns2619/Flappy-Bird-Game.git 
 
 2. **Navigate to the Project Directory**:
     ```bash
